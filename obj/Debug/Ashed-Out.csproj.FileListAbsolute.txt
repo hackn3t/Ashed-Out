@@ -1,0 +1,10 @@
+C:\Users\nuk\source\repos\Ashed-Out\bin\Debug\Ashed-Out.exe.config
+C:\Users\nuk\source\repos\Ashed-Out\bin\Debug\Ashed-Out.exe
+C:\Users\nuk\source\repos\Ashed-Out\bin\Debug\Ashed-Out.pdb
+C:\Users\nuk\source\repos\Ashed-Out\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nuk\source\repos\Ashed-Out\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nuk\source\repos\Ashed-Out\obj\Debug\Ashed-Out.csproj.AssemblyReference.cache
+C:\Users\nuk\source\repos\Ashed-Out\obj\Debug\Ashed-Out.csproj.CoreCompileInputs.cache
+C:\Users\nuk\source\repos\Ashed-Out\obj\Debug\Ashed-Out.csproj.Up2Date
+C:\Users\nuk\source\repos\Ashed-Out\obj\Debug\Ashed-Out.exe
+C:\Users\nuk\source\repos\Ashed-Out\obj\Debug\Ashed-Out.pdb
